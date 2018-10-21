@@ -1,0 +1,7 @@
+{
+  "productInstanceReference" : "CRRE2763",
+  "interestRateConfiguration" : "InterestCaluculation",
+  "rateApplicationSchedule" : "Weekly",
+  "applicableInterestRates" : "5%",
+  "interestRateReference" : "IRRE7291"
+}

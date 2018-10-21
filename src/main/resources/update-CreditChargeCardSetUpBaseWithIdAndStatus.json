@@ -1,0 +1,19 @@
+{
+  "productServiceReference" : "PSRE4577",
+  "allowedAccess" : "Admin",
+  "cardAccountLimits" : "$1000",
+  "taxReference" : "TXRE8490",
+  "issuedDeviceReference" : "IDRE4940",
+  "cardType" : "Credit/Charge",
+  "secondaryBillingCurrency" : "CAD",
+  "configurationOptions" : "CardScheme",
+  "partyReference" : "PRRE9404",
+  "issuedDeviceType" : "Physical",
+  "bankBranchLocationReference" : "BBLR4940",
+  "productInstanceReference" : "PRIR5859",
+  "involvedPartyObligationEntitlement" : "Restitution",
+  "cardAccountStatus" : "Active",
+  "involvedPartyReference" : "INPR8394",
+  "customerReference" : "CSRE3456",
+  "cardAccountCurrency" : "USD"
+}

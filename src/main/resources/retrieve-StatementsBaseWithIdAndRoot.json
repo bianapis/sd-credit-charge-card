@@ -1,0 +1,13 @@
+{
+  "statementPeriod" : "2018-07-01 To 2018-07-31",
+  "transactionType" : "Debit",
+  "productInstanceReference" : "SIRE2763",
+  "statementTransactionType" : "Deposit",
+  "transactionRecordReference" : "TRRE3902",
+  "transactionObligation" : "PurchasedService",
+  "transactionDateTime" : "2018-08-28T09:00:00",
+  "statementInstanceReference" : "SIRE2763",
+  "statementType" : "Balance",
+  "transactionCounterparty" : "Payee",
+  "transactionPrincipleAmount" : "$50"
+}

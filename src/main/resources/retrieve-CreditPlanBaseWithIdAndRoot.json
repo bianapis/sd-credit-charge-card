@@ -1,0 +1,7 @@
+{
+  "productInstanceReference" : "PRIR5859",
+  "creditPlanReference" : "CPRE5005",
+  "creditPlanType" : "Cash",
+  "creditPlanTerms" : "MinPayment",
+  "creditPlanAccount" : "CPAC1002"
+}

@@ -1,0 +1,8 @@
+{
+  "productInstanceReference" : "CCRE2763",
+  "feeConfiguration" : "Fees",
+  "feeCharge" : "$100",
+  "feeReference" : "FERE4440",
+  "feeType" : "Late",
+  "feeProjectionsCommitments" : "Offers"
+}

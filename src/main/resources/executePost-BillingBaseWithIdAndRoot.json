@@ -1,0 +1,21 @@
+{
+  "paymentTransactionReference" : "PTRE4545",
+  "paymentInstallment" : "$10",
+  "billingParty" : "Bank",
+  "billingAmount" : "$100",
+  "billingPeriod" : "2018-07-01 To 2018-07-31",
+  "transactionDateTime" : "2018-08-28T09:00:00",
+  "billingStatementReference" : "BSRE08920",
+  "transactionPrincipleAmount" : "$50",
+  "transactionType" : "Debit",
+  "productInstanceReference" : "PRIR5859",
+  "paymentDueDate" : "2018-08-05",
+  "billingTransactionReference" : "BTRE8920",
+  "transactionRecordReference" : "TRRE3902",
+  "transactionObligation" : "PurchasedService",
+  "minimumRequiredPayment" : "$20",
+  "billingParameters" : "Ceiling",
+  "billingAddress" : "412C Franklin Street Hudson NewYork United States",
+  "transactionCounterparty" : "Payee",
+  "paymentTransaction" : "CreditTransfer"
+}
